@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c02d9c2-279d-4e51-b8fd-c8138799cba0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pokemon/CommonPokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pokemon/Pokemon.java" afterDir="false" />
+    <list default="true" id="0c02d9c2-279d-4e51-b8fd-c8138799cba0" name="Changes" comment="first implement pokemon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pokemon/CommonPokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pokemon/CommonPokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pokemon/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pokemon/Pokemon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="093a5c11-faf6-4b76-8880-83f0e91fccfd" />
+        <option name="url" value="https://github.com/AdamRFaqih/TubesPBO1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,11 +81,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681136446641</updated>
-      <workItem from="1681136447692" duration="4372000" />
+      <workItem from="1681136447692" duration="5310000" />
     </task>
+    <task id="LOCAL-00001" summary="first implement pokemon">
+      <created>1681141602056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681141602056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first implement pokemon" />
+    <option name="LAST_COMMIT_MESSAGE" value="first implement pokemon" />
   </component>
 </project>

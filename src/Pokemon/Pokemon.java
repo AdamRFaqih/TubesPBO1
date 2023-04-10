@@ -1,6 +1,7 @@
 package Pokemon;
 
 public abstract class Pokemon {
+    private int idPokemon;
     private String name;
     private int HP;
     private String type;
@@ -8,7 +9,8 @@ public abstract class Pokemon {
     private int defend;
     private boolean defendBuff;
 
-    public Pokemon(String name, int HP, String type, int attack, int defend) {
+    public Pokemon(int idPokemon, String name, int HP, String type, int attack, int defend) {
+        this.idPokemon = idPokemon;
         this.name = name;
         this.HP = HP;
         this.type = type;
